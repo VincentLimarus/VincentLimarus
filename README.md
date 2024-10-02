@@ -8,15 +8,12 @@ I'm **Vincent Oliver Lim**, an Undergraduate Computer Science Student at **BINUS
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-4F5B93?style=flat&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-C72C48?style=flat&logo=ruby&logoColor=white)
-![PySpark](https://img.shields.io/badge/-PySpark-E35A21?style=flat&logo=apache&logoColor=white)
 
 ### Frameworks
 ![Laravel](https://img.shields.io/badge/-Laravel-EF5B25?style=flat&logo=laravel&logoColor=white)
