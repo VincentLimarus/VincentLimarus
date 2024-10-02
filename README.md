@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm **Vincent Oliver Lim**, an Undergraduate Computer Science Student at **BINUS University!** 
-- 🎯 I’m currently focusing on **Back-end Development** and **Database Engineering**.
-- 🌱 I’m learning **Golang**, **PHP**, and **TypeScript**.
+- 🎯 I’m currently focusing and interested on **Back-end Development** and **Database Engineering**.
+- 🌱 I’m currently learning **Golang**, **PHP**, and **TypeScript**.
 - 💻 Proficient in databases and backend services.
 
 ## Tech Stack
